@@ -1,0 +1,16 @@
+{
+  "name": "tapan/contactform",
+  "description": "this package will create contact form for your application",
+  "authors": [
+    {
+      "name": "tapan",
+      "email": "tapanderasari89@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Tapan\\ContactForm\\": "src/"
+    }
+  }
+}
